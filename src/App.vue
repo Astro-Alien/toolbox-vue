@@ -3,12 +3,14 @@
 
 <template>
   <header>
-    <div class="wrapper">
-    </div>
+        <h1>Toolbox</h1>
   </header>
 
   <main>
+        <h1>Welcome To the toolbox Vue.js version</h1>
   </main>
+
+  <footer>&copy; charleslemmert-toolbox </footer>
 </template>
 
 <style scoped>

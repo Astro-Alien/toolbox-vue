@@ -1,4 +1,5 @@
-import './assets/main.css'
+import './event-managers/event-emitter.js';
+import './assets/main.css';
 
 import { createApp } from 'vue'
 import App from './App.vue'
