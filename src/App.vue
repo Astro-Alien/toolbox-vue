@@ -10,7 +10,7 @@
         <h1>Welcome To the toolbox Vue.js version</h1>
   </main>
 
-  <footer>&copy; charleslemmert-toolbox </footer>
+  <footer>&copy; charleslemmert-toolbox-vuejs </footer>
 </template>
 
 <style scoped>
